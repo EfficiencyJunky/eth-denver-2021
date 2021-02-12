@@ -13,12 +13,15 @@ If you're reading this, chances are you've heard of Blockchain, (you've definite
 In this article I will attempt to demystify the lingo laden technology known as Blockchain (and cryptocurrncy by extension) without using words like "non-fungible", "proof of work", and "trustless consensus". Those words suck.
 
 ## Why is Blockchain so important?
-Our financial system is outdated, inefficient, and full of inequity. Poor people pay billions of dollars in unnecessary fees every year while rich people make billions by exploiting tax loopholes. Blockchain, in simple terms, is a technology foundation that enables a radically different financial system to be built upon it. And this time it's being built by nerds from all backgrounds, ages, races, and genders. Not just rich old white dudes. Think about the possibilities!
+Our financial system is outdated, inefficient, and full of inequity. Poor people pay billions of dollars in unnecessary fees every year while rich people make billions by exploiting tax loopholes. Blockchain, in simple terms, is a technology foundation that enables a radically different financial system to be built upon it. And this time it's being built by nerds. Not just mega-rich old white dudes. Think about the possibilities!
 
 ## What does a Blockchain future look like?
 Imagine a world where your paycheck was paid to you daily, or hourly, or every second instead of once every 2 weeks. In fact, you could choose whatever time interval you wanted. Maybe you love pie so you get paid every 3.14 days. That really shouldn't be a revolutionary idea. **And Blockchain already enables this!!!**
+
 Imagine if credit card fees were fixed at 1% or lower with no minimum. Small businesses would no longer have to force customers to spend more than $5 or $10 in order to make credit card purchases. Or they wouldn't have to force you to pay the fee they would have to pay. Now imagine if we got rid of credit cards all together but you still earned airline miles from making purchases. Or what if you could choose from 1000 different rewards? What would that world look like?
+
 Now here's a much more radical idea. Imagine a world where there were no banks, but your money was just as securely protected. No more ATM fees, overdraft fees, fees to open a new account or other hidden fees you aren't even aware of. That's not to say there won't be some small fees, but the fee structure will be simple, you'll know what the fees are ahead of time.
+
 And the best part is, fees are no longer just a one way street! YOU could even sign up to collect fees from other people in the system! And possibly even more bonkers is that the fees you pay could get lower as more people enter the system. Or the fee structure could be lower or higher based on income. It's even possible that the fee structure is decided by a vote, so everyone in the system gets to weigh in on the decision instead of just a board of directors at some greedy organization run by billionaires. And I should mention that in this system voter fraud is virtually impossible.
 
 
