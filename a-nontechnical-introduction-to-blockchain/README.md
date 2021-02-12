@@ -1,7 +1,7 @@
 # A non-technical introduction to Blockchain and the future of capitalism
 # What is blockchain In terms a normal person can understand?
 
-In today's world, your paycheck comes once every two weeks, Credit card fees make it harder for Small Businesses to serve their communities, and it can take up to 3 days to transfer money between Bank Accounts. 3 DAYS!!! Not to mention there are fees for literally EVERYTHING. Minimum fees, overdraft fees, maximum fees, hidden fees. And the people collecting these fees already have the majority of the world's wealth.
+In today's world, your paycheck comes once every two weeks, Credit card fees make it harder for Small Businesses to serve their communities, and it can take up to 3 days to deposit money in your Bank account. 3 DAYS!!! Not to mention there are fees for literally EVERYTHING. Minimum fees, overdraft fees, maximum fees, hidden fees. And the people collecting these fees already have the majority of the world's wealth.
 
 But wait. In today's world cars are starting to drive themselves, people are talking about colonizing mars, and a budget mobile phone is as powerful as the most expensive computer from 15 years ago. How the crap are we living in both of these worlds at once? What is wrong with this picture and what's to be done about it?
 
