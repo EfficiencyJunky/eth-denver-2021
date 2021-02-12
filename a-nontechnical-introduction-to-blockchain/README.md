@@ -3,7 +3,7 @@
 
 In today's world, your paycheck comes once every two weeks, Credit card fees make it harder for Small Businesses to serve their communities, and it can take up to 3 days to deposit money in your Bank account. 3 DAYS!!! Not to mention there are fees for literally EVERYTHING. Minimum fees, overdraft fees, maximum fees, hidden fees. And the people collecting these fees already have the majority of the world's wealth.
 
-But wait. In today's world cars are starting to drive themselves, people are talking about colonizing mars, and a budget mobile phone is as powerful as the most expensive computer from 15 years ago. How the crap are we living in both of these worlds at once? What is wrong with this picture and what's to be done about it?
+But wait. In today's world cars are starting to drive themselves, people are talking about colonizing mars, and the cheapest mobile phone is as powerful as the most expensive computer from 15 years ago. How the crap are we living in both of these worlds at once? What is wrong with this picture and what's to be done about it?
 
 The short answer is, our financial system is extremely outdated and it was built by people who profit from its design. But technology is finally catching up to these crusty old financial institutions. And it's called Blockchain.
 
