@@ -1,4 +1,5 @@
-# A non-technical introduction to Blockchain and the future of money (aka blockchain is not the new internet, it's much more profound)
+# A non-technical introduction to Blockchain and the future of capitalism
+# What is blockchain In terms a normal person can understand?
 
 In today's world, your paycheck comes once every two weeks, Credit card fees make it harder for Small Businesses to serve their communities, and it can take up to 3 days to transfer money between Bank Accounts. 3 DAYS!!! Not to mention there are fees for literally EVERYTHING. Minimum fees, overdraft fees, maximum fees, hidden fees. And the people collecting these fees already have the majority of the world's wealth.
 
