@@ -48,14 +48,14 @@ This is one of the most important concepts in the entire system. As long as only
 
 Now pretend that when you paid for the sandwich, the bookkeeper handed you a special device called a HashMachine. It looks a lot like a credit card reader that you have used in the past. The difference here is that instead of writing your name on the screen (or holding your phone next to it while using your thumb/face) you input your secret password (private key) instead. Just make sure nobody is looking ;) The job of the HashMachine is quite simple. It takes your secret password and spits out a random string of numbers and letters that is completely different from what you put in. This provides anonymity. Then the bookkeeper records this anonymized version in the ledger along with the date/time, price, and the fact that you bought a sandwich.
 
-What makes this system work is everytime you give the HashMachine your secret password, it spits out the same random string of numbers and letters. And THIS is how you can verify it was you. Sort of like a digital fingerprint or written signature. The other thing to know about the HashMachine is that it's a one way process. You can't put the publicly accessible version of your private key into it and expect to get your secret password. If you did this, you would just get another completely different string of numbers and letters. You'll just have to trust me on this one because this is the foundation of cryptography where things get extremely complex and I'm just a basic Ztopian trying to buy a sandwich.
+What makes this system work is everytime you give the HashMachine your secret password, it spits out the same random string of numbers and letters. And THIS is how you can verify it was you. If someone accuses you of stealing the sandwich, you just provide your secret key to the HashMachine and if the output matches what's in the ledger then everyone knows it was you. Sort of like a digital fingerprint or written signature. 
+
+The other thing to know about the HashMachine is that it's a one way process. You can't just give it the publicly accessible string of numbers and letters and expect to get your secret password in return. If you did this, you would just get another completely different string of numbers and letters. You'll just have to trust me on this one because this is the foundation of cryptography where things get a lot more complex. And I'm just a basic Ztopian who likes sandwiches.
 
 
+## It's all a matter of trust.
+One other common question is "What's to stop people from tampering with the public record of transactions". What if there was an evil bookkeeper who wanted to change a transaction after the fact so that it showed they were supposed to get 100 ZCoin instead of 10? The answer is that A) it's extremely hard to tamper with and B) there are more incentives for people not to mess with it than there are for people to cause problems.
 
 
-
-
-
-
-
-
+## How does this enable the future of Capitalism?
+In our current system we typically use banks to store our money. We trust these banks to hold onto our money because they have a proven track record of doing so and this is the way we've always done things. But at the same time, it takes 3-5 days to deposit money into most banks. Why is this? There's a lot of reasons, but the best answer is 
